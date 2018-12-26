@@ -17,3 +17,12 @@
 **Thoughts:** Took a lot longer than I expected but I stuck with it and was able to get through.  The biggest hurdle was just getting started!
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 3: 25 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Almost completed the Applied Visual Design section in FCC.
+
+**Thoughts:** Worked all day on this and did not get as far as I wanted too.  I guess I kept getting distracted, something about Christmas and holidays of something.
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
