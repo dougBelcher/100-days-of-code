@@ -26,3 +26,12 @@
 **Thoughts:** Worked all day on this and did not get as far as I wanted too.  I guess I kept getting distracted, something about Christmas and holidays of something.
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 4: 26 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed the Applied Visual Design section of FCC.  Tomorrow it is Applied Accessibility!
+
+**Thoughts:** On vacation from my day job (I work in IT on AS/400) so learning to do some other type coding.
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
