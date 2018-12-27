@@ -35,3 +35,12 @@
 **Thoughts:** On vacation from my day job (I work in IT on AS/400) so learning to do some other type coding.
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 5: 27 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed the Applied Accessibility section of FCC!
+
+**Thoughts:** Sometimes it is easy to get these done and sometimes it is a distraction.  I'm using my Pomodoro Timer to help me stay focused on the challenges.  It has been taking me all day to get through these sections.
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
