@@ -44,3 +44,12 @@
 **Thoughts:** Sometimes it is easy to get these done and sometimes it is a distraction.  I'm using my Pomodoro Timer to help me stay focused on the challenges.  It has been taking me all day to get through these sections.
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 6: 28 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed the Responsive Web Design Principles of FCC.
+
+**Thoughts:** I had a really hard time getting focused today and used muliple excuses not to do the work.  I did get the section done, however it was a small section.  Looking forward to completing a couple sections tomorrow.
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
