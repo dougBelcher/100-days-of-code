@@ -53,3 +53,12 @@
 **Thoughts:** I had a really hard time getting focused today and used muliple excuses not to do the work.  I did get the section done, however it was a small section.  Looking forward to completing a couple sections tomorrow.
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 7: 29 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed the CSS Flexbox of FCC.
+
+**Thoughts:** As usual I got a late start but finished really well, looking forward to CSS Grid tomorrow
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
