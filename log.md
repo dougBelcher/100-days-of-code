@@ -62,3 +62,12 @@
 **Thoughts:** As usual I got a late start but finished really well, looking forward to CSS Grid tomorrow
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 8: 30 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed the CSS Grid section of FCC.
+
+**Thoughts:** Whew!  I finally got done with the CSS Grid section and it was an uphill slog.  Next in line is Responsive Web Design Projects!
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
