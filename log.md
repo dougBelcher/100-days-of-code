@@ -71,3 +71,12 @@
 **Thoughts:** Whew!  I finally got done with the CSS Grid section and it was an uphill slog.  Next in line is Responsive Web Design Projects!
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 9: 31 Dec 2018
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Worked on the Basic JavaScript section of FCC.
+
+**Thoughts:** Skipped the Responsive Web Design section for now and concentrated on JavaScript.  
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
