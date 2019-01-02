@@ -80,3 +80,12 @@
 **Thoughts:** Skipped the Responsive Web Design section for now and concentrated on JavaScript.  
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 10: 1 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed a major amount of the Basic JavaScript section of FCC.
+
+**Thoughts:** Working on getting the Basic JavaScript section and it is has been pretty much fun!
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
