@@ -98,3 +98,12 @@
 **Thoughts:** Had to cut is short today after being back at work for the start of the year.  Just can't think and I don't want to miss anything!
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 12: 3 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Made more progress on the Basic JavaScript section of FCC.
+
+**Thoughts:** Was able to get a bit more done today but still not enough.  Going to push on to try and complete tomorrow.
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
