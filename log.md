@@ -116,3 +116,12 @@
 **Thoughts:** Skipped a day (oh well) but got back on it today and worked for several hours.  Will be back tomorrow
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 14: 6 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Took a break from FreeCodeCamp and reviewed a Node.js handbook
+
+**Thoughts:** It seems to be going a little bit better over the weekend and it was nice to do something different today.  
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
