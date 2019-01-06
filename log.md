@@ -107,3 +107,12 @@
 **Thoughts:** Was able to get a bit more done today but still not enough.  Going to push on to try and complete tomorrow.
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 13: 5 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Completed most (all but one) of Basic JavaSript section of FCC and started on ES6
+
+**Thoughts:** Skipped a day (oh well) but got back on it today and worked for several hours.  Will be back tomorrow
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
