@@ -125,3 +125,12 @@
 **Thoughts:** It seems to be going a little bit better over the weekend and it was nice to do something different today.  
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 15: 8 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Spent time watching an SQL for Beginners vide on youtube.
+
+**Thoughts:** Yesterday felt like it was very long, spent over 12 hours at work, not complaining but when I got home I didn't have the energy or desire to get back to the the ES6.  Maybe tomorrow.  
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
