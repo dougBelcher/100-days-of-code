@@ -134,3 +134,12 @@
 **Thoughts:** Yesterday felt like it was very long, spent over 12 hours at work, not complaining but when I got home I didn't have the energy or desire to get back to the the ES6.  Maybe tomorrow.  
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 16: 9 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Spent more time watching an SQL for Beginners vide on youtube.
+
+**Thoughts:** It went really well today until I got home.  Had a support call and the computer didn't work, the cell phone didn't work, the desk phone didn't work, and the tv sub was late. :) so much fun, but got it worked out.  
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
