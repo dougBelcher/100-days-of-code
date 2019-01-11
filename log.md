@@ -143,3 +143,12 @@
 **Thoughts:** It went really well today until I got home.  Had a support call and the computer didn't work, the cell phone didn't work, the desk phone didn't work, and the tv sub was late. :) so much fun, but got it worked out.  
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 17: 10 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Got up to the 2:30min mark on SQL for Beginners vide on youtube.
+
+**Thoughts:** It went so much better today with no hassles and no problems. I am hoping to get to the end of the video before the end of the weekend  
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
