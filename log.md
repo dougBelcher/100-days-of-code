@@ -152,3 +152,12 @@
 **Thoughts:** It went so much better today with no hassles and no problems. I am hoping to get to the end of the video before the end of the weekend  
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
+
+### Day 18: 11 Jan 2019
+<!--- ##### (delete me or comment me out) --->
+
+**Today's Progress**: Spent a lot of time on misc. subjects from Medium on FreeCodeCamp plus some time on RaspberryPi.
+
+**Thoughts:** I don't understand where all the time goes.  Had a snowstorm here today, took me 2 1/2 hours to home from work, and got right on the computer.  Now it's 10:30!  
+
+<!--- **Link to work:** [Calculator App](http://www.example.com) --->
