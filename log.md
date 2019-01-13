@@ -160,4 +160,8 @@
 
 **Thoughts:** I don't understand where all the time goes.  Had a snowstorm here today, took me 2 1/2 hours to home from work, and got right on the computer.  Now it's 10:30!  
 
-<!--- **Link to work:** [Calculator App](http://www.example.com) --->
+### Day 19: 12 Jan 2019
+
+**Today's Progress**: A lot of videos on various subjects from Hak5 to Python to Web Scrapeing.
+
+**Thoughts:** This has been a very productive day, not in getting code done but clearing up and cleaning up a lot of subjects that have been hanging out there for a very long time.  
