@@ -165,3 +165,9 @@
 **Today's Progress**: A lot of videos on various subjects from Hak5 to Python to Web Scrapeing.
 
 **Thoughts:** This has been a very productive day, not in getting code done but clearing up and cleaning up a lot of subjects that have been hanging out there for a very long time.  
+
+### Day 20: 15 Jan 2019
+
+**Today's Progress**: Primary focus was on viewing an SQL beginner video.  Should finish it up tomorrow.
+
+**Thoughts:** Missed a couple of days, however I did it intentionally and didn't feel bad about it.  I'm pushing forward on SQL and want to get back to FreeCodeCamp.  
