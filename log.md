@@ -171,3 +171,9 @@
 **Today's Progress**: Primary focus was on viewing an SQL beginner video.  Should finish it up tomorrow.
 
 **Thoughts:** Missed a couple of days, however I did it intentionally and didn't feel bad about it.  I'm pushing forward on SQL and want to get back to FreeCodeCamp.  
+
+### Day 21: 16 Jan 2019
+
+**Today's Progress**: Completed viewing an SQL beginner video.
+
+**Thoughts:** It was a push to get the SQL video done but I finally made it, now I'm pushing forward getting back to FreeCodeCamp.  
