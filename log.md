@@ -175,7 +175,7 @@
 
 **Thoughts:** It was a push to get the SQL video done but I finally made it, now I'm pushing forward getting back to FreeCodeCamp.  
 
-### Day 22: 18 Jan 2019
+### Day 22: 17 Jan 2019
 
 **Today's Progress**: Overheard some co-workers talking about containers so I spent my time today on Docker.
 
