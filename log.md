@@ -1,13 +1,10 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 23 Dec 2018
-<!--- ##### (delete me or comment me out) --->
 
 **Today's Progress**: Working on the HTML section of Free Code Camp.  I did this a year and 1/2 ago but, with not working on it daily, I feel like I need to return/refresh my knowledge.  
 
 **Thoughts:** I'm feeling a little bit overwhelmed with all the things I'm taking on right now but if I stick too it and get some help/support, I should be able to work through this successfully.
-
-<!--- **Link to work:** [Calculator App](http://www.example.com) --->
 
 ### Day 2: 24 Dec 2018
 <!--- ##### (delete me or comment me out) --->
@@ -177,3 +174,9 @@
 **Today's Progress**: Completed viewing an SQL beginner video.
 
 **Thoughts:** It was a push to get the SQL video done but I finally made it, now I'm pushing forward getting back to FreeCodeCamp.  
+
+### Day 22: 18 Jan 2019
+
+**Today's Progress**: Overheard some co-workers talking about containers so I spent my time today on Docker.
+
+**Thoughts:** I wanted to get back to FreeCodeCamp but when I heard them talking about containers I wanted to get a better grounding in what they were talking about.  
