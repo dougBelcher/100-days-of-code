@@ -180,3 +180,9 @@
 **Today's Progress**: Overheard some co-workers talking about containers so I spent my time today on Docker.
 
 **Thoughts:** I wanted to get back to FreeCodeCamp but when I heard them talking about containers I wanted to get a better grounding in what they were talking about.  
+
+### Day 23: 19 Jan 2019
+
+**Today's Progress**: Finally got back to FreeCodeCamp and ES6 exercises.
+
+**Thoughts:** Got stuck for over an hour on the arrow function and how to string functions together.  
