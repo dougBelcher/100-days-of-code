@@ -47,7 +47,7 @@
 
 **Today's Progress**: Completed the Responsive Web Design Principles of FCC.
 
-**Thoughts:** I had a really hard time getting focused today and used muliple excuses not to do the work.  I did get the section done, however it was a small section.  Looking forward to completing a couple sections tomorrow.
+**Thoughts:** I had a really hard time getting focused today and used multiple excuses not to do the work.  I did get the section done, however it was a small section.  Looking forward to completing a couple sections tomorrow.
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
 
@@ -108,7 +108,7 @@
 ### Day 13: 5 Jan 2019
 <!--- ##### (delete me or comment me out) --->
 
-**Today's Progress**: Completed most (all but one) of Basic JavaSript section of FCC and started on ES6
+**Today's Progress**: Completed most (all but one) of Basic JavaScript section of FCC and started on ES6
 
 **Thoughts:** Skipped a day (oh well) but got back on it today and worked for several hours.  Will be back tomorrow
 
@@ -126,16 +126,16 @@
 ### Day 15: 8 Jan 2019
 <!--- ##### (delete me or comment me out) --->
 
-**Today's Progress**: Spent time watching an SQL for Beginners vide on youtube.
+**Today's Progress**: Spent time watching an SQL for Beginners video on youtube.
 
-**Thoughts:** Yesterday felt like it was very long, spent over 12 hours at work, not complaining but when I got home I didn't have the energy or desire to get back to the the ES6.  Maybe tomorrow.  
+**Thoughts:** Yesterday felt like it was very long, spent over 12 hours at work, not complaining but when I got home I didn't have the energy or desire to get back to the ES6.  Maybe tomorrow.  
 
 <!--- **Link to work:** [Calculator App](http://www.example.com) --->
 
 ### Day 16: 9 Jan 2019
 <!--- ##### (delete me or comment me out) --->
 
-**Today's Progress**: Spent more time watching an SQL for Beginners vide on youtube.
+**Today's Progress**: Spent more time watching an SQL for Beginners video on youtube.
 
 **Thoughts:** It went really well today until I got home.  Had a support call and the computer didn't work, the cell phone didn't work, the desk phone didn't work, and the tv sub was late. :) so much fun, but got it worked out.  
 
@@ -144,7 +144,7 @@
 ### Day 17: 10 Jan 2019
 <!--- ##### (delete me or comment me out) --->
 
-**Today's Progress**: Got up to the 2:30min mark on SQL for Beginners vide on youtube.
+**Today's Progress**: Got up to the 2:30min mark on SQL for Beginners video on youtube.
 
 **Thoughts:** It went so much better today with no hassles and no problems. I am hoping to get to the end of the video before the end of the weekend  
 
@@ -159,7 +159,7 @@
 
 ### Day 19: 12 Jan 2019
 
-**Today's Progress**: A lot of videos on various subjects from Hak5 to Python to Web Scrapeing.
+**Today's Progress**: A lot of videos on various subjects from Hak5 to Python to Web Scraping.
 
 **Thoughts:** This has been a very productive day, not in getting code done but clearing up and cleaning up a lot of subjects that have been hanging out there for a very long time.  
 
@@ -186,3 +186,9 @@
 **Today's Progress**: Finally got back to FreeCodeCamp and ES6 exercises.
 
 **Thoughts:** Got stuck for over an hour on the arrow function and how to string functions together.  
+
+### Day 24: 20 Jan 2019
+
+**Today's Progress**: I fought the entire time with understanding and trying to complete an exercise with Rest parameters.
+
+**Thoughts:** I am feeling so very stupid that I can't get a simple concept like this.
