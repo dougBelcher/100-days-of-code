@@ -192,3 +192,9 @@
 **Today's Progress**: I fought the entire time with understanding and trying to complete an exercise with Rest parameters.
 
 **Thoughts:** I am feeling so very stupid that I can't get a simple concept like this.
+
+### Day 25: 22 Jan 2019
+
+**Today's Progress**: Spent an hour and some change on Git on the IBM i, what it is and does.
+
+**Thoughts:** Not sure if I can use this at work but looking for opportunities wherever it can help.
