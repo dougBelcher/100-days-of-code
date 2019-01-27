@@ -198,3 +198,9 @@
 **Today's Progress**: Spent an hour and some change on Git on the IBM i, what it is and does.
 
 **Thoughts:** Not sure if I can use this at work but looking for opportunities wherever it can help.
+
+### Day 26: 27 Jan 2019
+
+**Today's Progress**: Got back to FreeCodeCamp, ES6, rest, and destructors.
+
+**Thoughts:** Tried again to understand rest and destructors, however did not make it happen.  When I skipped that to try and get some wins I was able to work through a number of exercises.  Needed that win to keep going!
