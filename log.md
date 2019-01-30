@@ -204,3 +204,9 @@
 **Today's Progress**: Got back to FreeCodeCamp, ES6, rest, and destructors.
 
 **Thoughts:** Tried again to understand rest and destructors, however did not make it happen.  When I skipped that to try and get some wins I was able to work through a number of exercises.  Needed that win to keep going!
+
+### Day 27: 29 Jan 2019
+
+**Today's Progress**: Spent an hour on Git on IBM i.
+
+**Thoughts:** Understand a little bit better about the relationship between Git, GitHub, and IBM i.
