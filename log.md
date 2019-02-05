@@ -210,3 +210,9 @@
 **Today's Progress**: Spent an hour on Git on IBM i.
 
 **Thoughts:** Understand a little bit better about the relationship between Git, GitHub, and IBM i.
+
+### Day 27: 29 Jan 2019
+
+**Today's Progress**: Spent my time today on FreeCodeCamp ES6 challenges.
+
+**Thoughts:** Trying to push forward on these challenges but it has been a hard slog but I'm slowly getting there.
