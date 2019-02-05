@@ -211,7 +211,7 @@
 
 **Thoughts:** Understand a little bit better about the relationship between Git, GitHub, and IBM i.
 
-### Day 27: 29 Jan 2019
+### Day 28: 4 Feb 2019
 
 **Today's Progress**: Spent my time today on FreeCodeCamp ES6 challenges.
 
