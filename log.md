@@ -216,3 +216,9 @@
 **Today's Progress**: Spent my time today on FreeCodeCamp ES6 challenges.
 
 **Thoughts:** Trying to push forward on these challenges but it has been a hard slog but I'm slowly getting there.
+
+### Day 29: 9 Feb 2019
+
+**Today's Progress**: Today was Regular Expressions!
+
+**Thoughts:** It is getting a little easier to get to the challenges and get them done.  I just hope I don't run into a another brick wall.
