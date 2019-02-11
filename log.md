@@ -222,3 +222,9 @@
 **Today's Progress**: Today was Regular Expressions!
 
 **Thoughts:** It is getting a little easier to get to the challenges and get them done.  I just hope I don't run into a another brick wall.
+
+### Day 30: 10 Feb 2019
+
+**Today's Progress**: Today was Pythonm, all day!
+
+**Thoughts:** Enjoying the "Automate the Boring Stuff with Python".  I may make it through the entire where all I wanted was to find out about automating Excel.
