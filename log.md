@@ -225,6 +225,12 @@
 
 ### Day 30: 10 Feb 2019
 
-**Today's Progress**: Today was Pythonm, all day!
+**Today's Progress**: Today was Python, all day!
 
 **Thoughts:** Enjoying the "Automate the Boring Stuff with Python".  I may make it through the entire where all I wanted was to find out about automating Excel.
+
+### Day 31: 11 Feb 2019
+
+**Today's Progress**: Today was Regular Expressions!
+
+**Thoughts:** Went back to Freecodecamp to do regular expressions, I knew better but couldn't resist.  I am slogging through it and using the idea I get to go back to "Automate the Boring Stuff with Python".
