@@ -234,3 +234,9 @@
 **Today's Progress**: Today was Regular Expressions!
 
 **Thoughts:** Went back to Freecodecamp to do regular expressions, I knew better but couldn't resist.  I am slogging through it and using the idea I get to go back to "Automate the Boring Stuff with Python".
+
+### Day 32: 17 Feb 2019
+
+**Today's Progress**: Working on the book "Automate the Boring Stuff with Python".  Still on the Boring Stuff of Python! :)
+
+**Thoughts:** I am working through it although I am a bit distracted by other things and can't seem to concentrate.  I'll have to do better tomorrow.
