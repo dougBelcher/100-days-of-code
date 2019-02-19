@@ -240,3 +240,9 @@
 **Today's Progress**: Working on the book "Automate the Boring Stuff with Python".  Still on the Boring Stuff of Python! :)
 
 **Thoughts:** I am working through it although I am a bit distracted by other things and can't seem to concentrate.  I'll have to do better tomorrow.
+
+### Day 33: 18 Feb 2019
+
+**Today's Progress**: Still Working on the book "Automate the Boring Stuff with Python".  Still on the Boring Stuff of Python! :)
+
+**Thoughts:** I am working through it although I am a bit distracted by other things and can't seem to concentrate.  I'll have to do better tomorrow. (Ditto)
