@@ -252,3 +252,9 @@
 **Today's Progress**: Still Working on the book "Automate the Boring Stuff with Python".  
 
 **Thoughts:** It seemed to go quite a bit smoother today.  I was able to concentrate and keep focus on the material.
+
+### Day 35: 3 Mar 2019
+
+**Today's Progress**: Watched/learned/used Web Scrapping with Python.  Also did some reading with the "Automate the Boring Stuff with Python".  
+
+**Thoughts:** I am on a roll this weekend!  Hopefully I don't crash tomorrow because I will be spending the week in Mexico for work.
