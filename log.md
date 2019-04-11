@@ -258,3 +258,9 @@
 **Today's Progress**: Watched/learned/used Web Scrapping with Python.  Also did some reading with the "Automate the Boring Stuff with Python".  
 
 **Thoughts:** I am on a roll this weekend!  Hopefully I don't crash tomorrow because I will be spending the week in Mexico for work.
+
+### Day 36: 10 Apr 2019
+
+**Today's Progress**: Continued to work on the "Automate the Boring Stuff with Python".  
+
+**Thoughts:** Has been a long time since I posted any progress.  It's not that I haven't made any progress, it's just that I didn't like posting that I was basically spinning my wheels.  Feels like things are moving now.
