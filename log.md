@@ -264,3 +264,9 @@
 **Today's Progress**: Continued to work on the "Automate the Boring Stuff with Python".  
 
 **Thoughts:** Has been a long time since I posted any progress.  It's not that I haven't made any progress, it's just that I didn't like posting that I was basically spinning my wheels.  Feels like things are moving now.
+
+### Day 37: 11 Apr 2019
+
+**Today's Progress**: Still working on the "Automate the Boring Stuff with Python".  
+
+**Thoughts:** Progress being made.  Slowly but surely!
