@@ -270,3 +270,9 @@
 **Today's Progress**: Still working on the "Automate the Boring Stuff with Python".  
 
 **Thoughts:** Progress being made.  Slowly but surely!
+
+### Day 38: 16 Apr 2019
+
+**Today's Progress**: Going down a rabbit hole to try and get things done.  
+
+**Thoughts:** Switched IDE for Python because Idle was pissing me off!  I have already done one python script and working on another.
