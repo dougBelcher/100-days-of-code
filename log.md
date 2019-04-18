@@ -276,3 +276,9 @@
 **Today's Progress**: Going down a rabbit hole to try and get things done.  
 
 **Thoughts:** Switched IDE for Python because Idle was pissing me off!  I have already done one python script and working on another.
+
+### Day 39: 17 Apr 2019
+
+**Today's Progress**: Things are going better today, I actually made some progess on the python script.  
+
+**Thoughts:** Started using the Visual Studio for the python running and debugging.  It is still not all the way but it is better!
