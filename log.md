@@ -282,3 +282,9 @@
 **Today's Progress**: Things are going better today, I actually made some progess on the python script.  
 
 **Thoughts:** Started using the Visual Studio for the python running and debugging.  It is still not all the way but it is better!
+
+### Day 40: 19 Apr 2019
+
+**Today's Progress**: Continued working with "Automate the Boring Stuff with Python".
+
+**Thoughts:** Made some serious progress today on my Python scripts.  Got them debugged and running very nicely!
