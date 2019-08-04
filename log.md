@@ -288,3 +288,9 @@
 **Today's Progress**: Continued working with "Automate the Boring Stuff with Python".
 
 **Thoughts:** Made some serious progress today on my Python scripts.  Got them debugged and running very nicely!
+
+### Day 41: 4 Aug 2019
+
+**Today's Progress**: Got back started on the 1 hour a day (never went away, just stopped posting) and really started to dig in to Python.
+
+**Thoughts:** I has been quite a stretch since I last posted so I can either restart the 100 days or just continue.  I decided to continue and pick up where I left off.
