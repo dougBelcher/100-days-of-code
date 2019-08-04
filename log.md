@@ -293,4 +293,4 @@
 
 **Today's Progress**: Got back started on the 1 hour a day (never went away, just stopped posting) and really started to dig in to Python.
 
-**Thoughts:** I has been quite a stretch since I last posted so I can either restart the 100 days or just continue.  I decided to continue and pick up where I left off.
+**Thoughts:** It has been quite a stretch since I last posted so I can either restart the 100 days or just continue.  I decided to continue and pick up where I left off.
