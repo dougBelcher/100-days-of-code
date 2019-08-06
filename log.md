@@ -294,3 +294,9 @@
 **Today's Progress**: Got back started on the 1 hour a day (never went away, just stopped posting) and really started to dig in to Python.
 
 **Thoughts:** It has been quite a stretch since I last posted so I can either restart the 100 days or just continue.  I decided to continue and pick up where I left off.
+
+### Day 42: 5 Aug 2019
+
+**Today's Progress**: Really digging into Python, I think I found my muse :).  Now just to keep it up.
+
+**Thoughts:** Joined a paid Python web based forum.  Hoping to be able to keep myself motivated thru the slow days.
