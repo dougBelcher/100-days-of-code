@@ -300,3 +300,9 @@
 **Today's Progress**: Really digging into Python, I think I found my muse :).  Now just to keep it up.
 
 **Thoughts:** Joined a paid Python web based forum.  Hoping to be able to keep myself motivated thru the slow days.
+
+### Day 43: 6 Aug 2019
+
+**Today's Progress**: Spent a big chunk of time on the book Python Basics and even bigger chunk on PEP8.
+
+**Thoughts:** Going all in on Python is exhausting, however I think that I can stick to it with the help I'm getting.
