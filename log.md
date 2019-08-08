@@ -306,3 +306,9 @@
 **Today's Progress**: Spent a big chunk of time on the book Python Basics and even bigger chunk on PEP8.
 
 **Thoughts:** Going all in on Python is exhausting, however I think that I can stick to it with the help I'm getting.
+
+### Day 44: 7 Aug 2019
+
+**Today's Progress**: Finished PEP8 last night, continuing on with the Python Basics book.
+
+**Thoughts:** Haven't really reached out for help yet, but I know it is there when I need it.  
