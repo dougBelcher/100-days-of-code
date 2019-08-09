@@ -312,3 +312,9 @@
 **Today's Progress**: Finished PEP8 last night, continuing on with the Python Basics book.
 
 **Thoughts:** Haven't really reached out for help yet, but I know it is there when I need it.  
+
+### Day 45: 8 Aug 2019
+
+**Today's Progress**: Continuing on with the Python Basics book and the PythonistaCafe website
+
+**Thoughts:** Things are progressing simultaneously in all directions (another definition for chaos), 
