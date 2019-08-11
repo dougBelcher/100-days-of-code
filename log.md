@@ -317,4 +317,10 @@
 
 **Today's Progress**: Continuing on with the Python Basics book and the PythonistaCafe website
 
-**Thoughts:** Things are progressing simultaneously in all directions (another definition for chaos), 
+**Thoughts:** Things are progressing simultaneously in all directions (another definition for chaos).
+
+### Day 46: 11 Aug 2019
+
+**Today's Progress**: Spent the entire time trying to work with PyCharm
+
+**Thoughts:** Frustrating but informative.  I was able to figure out a number of things to get it working, thanks internet!
