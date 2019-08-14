@@ -324,3 +324,9 @@
 **Today's Progress**: Spent the entire time trying to work with PyCharm
 
 **Thoughts:** Frustrating but informative.  I was able to figure out a number of things to get it working, thanks internet!
+
+### Day 47: 13 Aug 2019
+
+**Today's Progress**: Went back to thePython Basics book to get further into it.
+
+**Thoughts:** Worked through a couple of more issues with PyCharm but mostly worked on exercises.
