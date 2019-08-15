@@ -330,3 +330,9 @@
 **Today's Progress**: Went back to thePython Basics book to get further into it.
 
 **Thoughts:** Worked through a couple of more issues with PyCharm but mostly worked on exercises.
+
+### Day 48: 14 Aug 2019
+
+**Today's Progress**: Continuing with the Python Basics e-book and PythonistaCafe!
+
+**Thoughts:** Got through a little less that I wanted but I got through it.  Receiving good support from PythonistaCafe.
