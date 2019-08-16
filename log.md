@@ -336,3 +336,9 @@
 **Today's Progress**: Continuing with the Python Basics e-book and PythonistaCafe!
 
 **Thoughts:** Got through a little less that I wanted but I got through it.  Receiving good support from PythonistaCafe.
+
+### Day 49: 15 Aug 2019
+
+**Today's Progress**: Continuing with the Python Basics e-book and PythonistaCafe, again!
+
+**Thoughts:** Doing much better today and really liking PythonistaCafe.
