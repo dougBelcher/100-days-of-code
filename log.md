@@ -348,3 +348,9 @@
 **Today's Progress**: Half way through!! Still working through Python Basics e-book and PythonistaCafe.
 
 **Thoughts:** Wasn't sure I would make it to the half way point, but I'm here and moving on.
+
+### Day 51: 17 Aug 2019
+
+**Today's Progress**: Spend all my time on reading the PythonistaCafe article about print()
+
+**Thoughts:** A little bit tougher to focus today but I got through it and looking forward to tomorrow.
