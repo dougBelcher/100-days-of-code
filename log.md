@@ -354,3 +354,9 @@
 **Today's Progress**: Spend all my time on reading the PythonistaCafe article about print()
 
 **Thoughts:** A little bit tougher to focus today but I got through it and looking forward to tomorrow.
+
+### Day 52: 21 Aug 2019
+
+**Today's Progress**: Spent the time on the e-book Python Basics: A Practical Introduction to Python 3
+
+**Thoughts:** Missed a few days but, hopefully, I'm back on track.
