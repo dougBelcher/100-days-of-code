@@ -360,3 +360,9 @@
 **Today's Progress**: Spent the time on the e-book Python Basics: A Practical Introduction to Python 3
 
 **Thoughts:** Missed a few days but, hopefully, I'm back on track.
+
+### Day 53: 22 Aug 2019
+
+**Today's Progress**: Continued to work through the e-book Python Basics: A Practical Introduction to Python 3
+
+**Thoughts:** I think I'm back on track but I will have to wait until tomorrow to know for sure
