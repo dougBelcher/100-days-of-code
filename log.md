@@ -366,3 +366,9 @@
 **Today's Progress**: Continued to work through the e-book Python Basics: A Practical Introduction to Python 3
 
 **Thoughts:** I think I'm back on track but I will have to wait until tomorrow to know for sure
+
+### Day 54: 24 Aug 2019
+
+**Today's Progress**: Still working through the e-book Python Basics: A Practical Introduction to Python 3, through 6.3
+
+**Thoughts:** Didn't stay on track but doing the things I need to do to keep going
