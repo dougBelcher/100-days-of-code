@@ -372,3 +372,15 @@
 **Today's Progress**: Still working through the e-book Python Basics: A Practical Introduction to Python 3, through 6.3
 
 **Thoughts:** Didn't stay on track but doing the things I need to do to keep going
+
+### Day 55: 27 Aug 2019
+
+**Today's Progress**: Still working through the e-book Python Basics: A Practical Introduction to Python 3, through 6.7
+
+**Thoughts:** Forgot to post this one but I did it
+
+### Day 56: 28 Aug 2019
+
+**Today's Progress**: Still working through the e-book Python Basics: A Practical Introduction to Python 3, through 7.3
+
+**Thoughts:** Got through the debugging chapter pretty easy.  Tomorrow, on to chapter 8 and conditional logic and control flows
