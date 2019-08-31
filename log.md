@@ -390,3 +390,9 @@
 **Today's Progress**: Another day of working through the e-book Python Basics: A Practical Introduction to Python 3, through 8.3
 
 **Thoughts:** First part of the Chapter 8 went smooth, but started slowing up when I hit 8.3. Going to work more on it tomorrow!
+
+### Day 58: 30 Aug 2019
+
+**Today's Progress**: Switched it today and worked through an article about connecting to Twitch and Twilio
+
+**Thoughts:** A bit frustrating because the article had a bug in the code.  Got it worked out and it ran!
