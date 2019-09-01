@@ -396,3 +396,9 @@
 **Today's Progress**: Switched it today and worked through an article about connecting to Twitch and Twilio
 
 **Thoughts:** A bit frustrating because the article had a bug in the code.  Got it worked out and it ran!
+
+### Day 59: 31 Aug 2019
+
+**Today's Progress**: Spent all my time deleting, downloading, and reinstalling PyCharm and Python
+
+**Thoughts:** Redid the PyCharm several times and finally figured out it was the Python install that was corrupted!
