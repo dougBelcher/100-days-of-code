@@ -402,3 +402,9 @@
 **Today's Progress**: Spent all my time deleting, downloading, and reinstalling PyCharm and Python
 
 **Thoughts:** Redid the PyCharm several times and finally figured out it was the Python install that was corrupted!
+
+### Day 60: 2 Sep 2019
+
+**Today's Progress**: Completed the Real Python (@realpython) Twitter Bot article.
+
+**Thoughts:** Make a lot of progress today in getting through the steps and was able to get it working.  Very easy!
