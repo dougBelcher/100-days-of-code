@@ -408,3 +408,9 @@
 **Today's Progress**: Completed the Real Python (@realpython) Twitter Bot article.
 
 **Thoughts:** Make a lot of progress today in getting through the steps and was able to get it working.  Very easy!
+
+### Day 61: 10 Sep 2019
+
+**Today's Progress**: Worked through a bug I found in a XKCD download file I found.
+
+**Thoughts:** Was really nice to be able to track down the issue, address it, and get all the comics.
