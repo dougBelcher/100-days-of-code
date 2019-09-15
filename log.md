@@ -414,3 +414,9 @@
 **Today's Progress**: Worked through a bug I found in a XKCD download file I found.
 
 **Thoughts:** Was really nice to be able to track down the issue, address it, and get all the comics.
+
+### Day 62: 14 Sep 2019
+
+**Today's Progress**: Incorporated a couple of new things I learned into the Tweepy script I'm working on.
+
+**Thoughts:** I have been flipping back and forth between reading a Python book and Python articles.
