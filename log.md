@@ -420,3 +420,9 @@
 **Today's Progress**: Incorporated a couple of new things I learned into the Tweepy script I'm working on.
 
 **Thoughts:** I have been flipping back and forth between reading a Python book and Python articles.
+
+### Day 63: 16 Sep 2019
+
+**Today's Progress**: Trying to work through a Python article about converting photos to pencil sketches.
+
+**Thoughts:** Didn't make as much progress on this as I had hoped. Still working through and hope to finish tomorrow.
