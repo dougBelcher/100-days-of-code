@@ -426,3 +426,9 @@
 **Today's Progress**: Trying to work through a Python article about converting photos to pencil sketches.
 
 **Thoughts:** Didn't make as much progress on this as I had hoped. Still working through and hope to finish tomorrow.
+
+### Day 64: 17 Sep 2019
+
+**Today's Progress**: **Still** working through a python article converting photos to pencil sketches (sketchify).
+
+**Thoughts:** Nope, hope didn't work.  Made some progress but got stuck on getting the script to recognize a file on my PC.
