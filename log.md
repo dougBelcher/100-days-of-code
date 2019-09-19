@@ -432,3 +432,9 @@
 **Today's Progress**: **Still** working through a python article converting photos to pencil sketches (sketchify).
 
 **Thoughts:** Nope, hope didn't work.  Made some progress but got stuck on getting the script to recognize a file on my PC.
+
+### Day 65: 18 Sep 2019
+
+**Today's Progress**: FINALLY got sketchify to work!  Not exactly right yet but I'm taking a win on it.
+
+**Thoughts:** I still need to get a better idea of how the image bits work on a picture on my PC and tweak it abit.
