@@ -438,3 +438,9 @@
 **Today's Progress**: FINALLY got sketchify to work!  Not exactly right yet but I'm taking a win on it.
 
 **Thoughts:** I still need to get a better idea of how the image bits work on a picture on my PC and tweak it abit.
+
+### Day 66: 19 Sep 2019
+
+**Today's Progress**: Spend all my time tonight on watching and trying to understand the os module.
+
+**Thoughts:** This is exactly what I needed to see and start to understand.  Shocked at how much I still don't know ;).
