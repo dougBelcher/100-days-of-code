@@ -444,3 +444,9 @@
 **Today's Progress**: Spend all my time tonight on watching and trying to understand the os module.
 
 **Thoughts:** This is exactly what I needed to see and start to understand.  Shocked at how much I still don't know ;).
+
+### Day 67: 21 Sep 2019
+
+**Today's Progress**: Did a lot of work on general Python stuff, i.e. Pycharm, GitHub, etc.
+
+**Thoughts:** Felt like I was making major progress today and it felt good!
