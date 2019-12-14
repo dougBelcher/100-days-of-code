@@ -450,3 +450,9 @@
 **Today's Progress**: Did a lot of work on general Python stuff, i.e. Pycharm, GitHub, etc.
 
 **Thoughts:** Felt like I was making major progress today and it felt good!
+
+### Day 68: 13 Dec 2019
+
+**Today's Progress**: Watched a couple of Python videos and read a couple of articles.
+
+**Thoughts:** I got really involved with a couple of news stories that just did not quit!  Hope I'm back now.
