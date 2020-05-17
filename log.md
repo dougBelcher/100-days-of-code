@@ -462,3 +462,9 @@
 **Today's Progress**: Spent a large chunk of the day working on pandas and tutorials.
 
 **Thoughts:** Thought I was back on track but I wasn't!! Now I'm focusing on getting a thorough understanding of pandas.
+
+### Day 70: 17 May 2020
+
+**Today's Progress**: Again spent time on pandas and tutorials, got through 7-8 of them.
+
+**Thoughts:** Today feels much better than yesterday about the progress I made and I'm hoping to do even better tomorrow.
