@@ -456,3 +456,9 @@
 **Today's Progress**: Watched a couple of Python videos and read a couple of articles.
 
 **Thoughts:** I got really involved with a couple of news stories that just did not quit!  Hope I'm back now.
+
+### Day 69: 16 May 2020
+
+**Today's Progress**: Spent a large chunk of the day working on pandas and tutorials.
+
+**Thoughts:** Thought I was back on track but I wasn't!! Now I'm focusing on getting a thorough understanding of pandas.
