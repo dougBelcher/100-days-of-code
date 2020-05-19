@@ -468,3 +468,9 @@
 **Today's Progress**: Again spent time on pandas and tutorials, got through 7-8 of them.
 
 **Thoughts:** Today feels much better than yesterday about the progress I made and I'm hoping to do even better tomorrow.
+
+### Day 71: 18 May 2020
+
+**Today's Progress**: Spent all of my time on pandas tutorials and keying in code.  Only got through 2 of them.
+
+**Thoughts:** Things are working out better for me today than yesterday, didn't spend as much time on it but it was better time.
