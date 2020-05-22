@@ -480,3 +480,9 @@
 **Today's Progress**: Another day of panda tutorials and keying in code, however I made it through 6 today.
 
 **Thoughts:** I'm doing better today and being more productive than I have in a very long time.  Feels good!!
+
+### Day 73: 21 May 2020
+
+**Today's Progress**: Another day of panda tutorials and keying in code, however I only made it through 3 today.
+
+**Thoughts:** Not struggling to keep going and plan another few days before I go back to work
