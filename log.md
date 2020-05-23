@@ -486,3 +486,9 @@
 **Today's Progress**: Another day of panda tutorials and keying in code, however I only made it through 3 today.
 
 **Thoughts:** Not struggling to keep going and plan another few days before I go back to work
+
+### Day 74: 22 May 2020
+
+**Today's Progress**: Changed direction today and worked on scraping websites (requests and beautfulsoup).
+
+**Thoughts:** It was a pain to work through all the issues but I managed to make it through most of them.
