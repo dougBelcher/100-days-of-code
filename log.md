@@ -498,3 +498,9 @@
 **Today's Progress**: Started a tutorial about using SQLite in Python.
 
 **Thoughts:** Got through over half of it and will complete the other half tomorrow.
+
+### Day 76: 24 May 2020
+
+**Today's Progress**: Completed the tutorial about using SQLite in Python.
+
+**Thoughts:** Since I already have a very good grounding in SQL this was fun!!
