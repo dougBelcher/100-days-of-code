@@ -492,3 +492,9 @@
 **Today's Progress**: Changed direction today and worked on scraping websites (requests and beautfulsoup).
 
 **Thoughts:** It was a pain to work through all the issues but I managed to make it through most of them.
+
+### Day 75: 23 May 2020
+
+**Today's Progress**: Started a tutorial about using SQLite in Python.
+
+**Thoughts:** Got through over half of it and will complete the other half tomorrow.
