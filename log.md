@@ -510,3 +510,9 @@
 **Today's Progress**: Completed several more pandas tutorials.
 
 **Thoughts:** Skipped a couple of days catching up with other things, distracted by the news.  Going to wrap up pandas this week.
+
+### Day 78: 2 Jun 2020
+
+**Today's Progress**: Completed another pandas tutorial.
+
+**Thoughts:** The pandas library is starting to make a little bit more sense to me now.
