@@ -516,3 +516,15 @@
 **Today's Progress**: Completed another pandas tutorial.
 
 **Thoughts:** The pandas library is starting to make a little bit more sense to me now.
+
+### Day 79: 6 Jun 2020
+
+**Today's Progress**: Brought a project home from work, extract data from an excel spreadsheet cell.
+
+**Thoughts:** Now we will see how well I understand python and pandas!!
+
+### Day 80: 7 Jun 2020
+
+**Today's Progress**: Extracted the data and output SQL, will take if to work and try it out.
+
+**Thoughts:** Worked most of the weekend on this to get it to a point where I could use it at work.
