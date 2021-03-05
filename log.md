@@ -534,3 +534,9 @@
 **Today's Progress**: Reading and doing exercises in the Python Testing with pytest, got through pg 16.
 
 **Thoughts:** Getting back to recording my 100 days, still been studying but just not recording.
+
+### Day 82: 4 Mar 2021
+
+**Today's Progress**: Reading and doing exercises in the Python Testing with pytest, got through pg 20.
+
+**Thoughts:** Going slower than I want, however still making progress and that feels good.
