@@ -540,3 +540,10 @@
 **Today's Progress**: Reading and doing exercises in the Python Testing with pytest, got through pg 20.
 
 **Thoughts:** Going slower than I want, however still making progress and that feels good.
+
+
+### Day 83: 21 Mar 2021
+
+**Today's Progress**: Working through the Beyond the Basic Stuff with Python by Al Sweigart
+
+**Thoughts:** I shouldn't be bouncing around like this but sometimes I'm just trying to get something done and I feel like I have to.
